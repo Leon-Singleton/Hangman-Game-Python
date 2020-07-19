@@ -1,2 +1,2 @@
 # Hangman-Game-Python
-A console based hangman game created in Python
+A console based hangman game created in Python.
